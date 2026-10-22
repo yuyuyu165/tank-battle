@@ -1,5 +1,7 @@
 # 坦克大战 (Tank Battle)
 
+> 🎮 在线试玩：https://yuyuyu165.github.io/tank-battle/
+
 一款使用原生 **HTML + Canvas + JavaScript** 编写的经典坦克大战游戏，单文件即可运行，零依赖、无需构建。
 
 ## 玩法
